@@ -4,7 +4,7 @@
 
 ### Desenvolvedor de Software | Full Stack | Cloud Computing
 
-Desenvolvimento de aplicações web com JavaScript, TypeScript, React e Node.js.
+Desenvolvimento de aplicações web e mobile com JavaScript, TypeScript, React, React Native e Node.js.
 
 <br/>
 
@@ -105,7 +105,7 @@ Aplicação que permite explorar caminhos de carreira e visualizar as tecnologia
     <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do frontend"/>
   </a>
   <a href="https://devpath-s2s2.vercel.app/">
-    <img src="https://img.shields.io/badge/Deploy-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Aplicação online"/>
+    <img src="https://img.shields.io/badge/Deploy-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Aplicação online"/>
   </a>
 </div>
 
