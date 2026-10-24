@@ -80,7 +80,7 @@ Aplicação full stack para gerenciamento de projetos, tarefas e membros de equi
 - Controle de membros e permissões.
 - API REST e banco de dados relacional.
 
-**Tecnologias:** React, TypeScript, NestJS, Prisma e PostgreSQL.
+**Tecnologias:** React, TypeScript, TanStack, NestJS, Prisma e PostgreSQL.
 
 <div>
   <a href="https://github.com/MarceloKade/devboard-web">
