@@ -2,10 +2,9 @@
 
 # Marcelo Cardoso Kade
 
-### Desenvolvedor de Software | Full Stack
+### Desenvolvedor de Software | Full Stack | Cloud Computing
 
-Desenvolvedor com foco em JavaScript, TypeScript, React e Node.js.
-Gosto de aprender construindo projetos e explorando novas tecnologias.
+Desenvolvimento de aplicações web com JavaScript, TypeScript, React e Node.js.
 
 <br/>
 
@@ -19,12 +18,10 @@ Gosto de aprender construindo projetos e explorando novas tecnologias.
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
-- ☁️ Pós-graduado em Arquitetura e Projetos de Cloud Computing.
-- 💻 Estudo desenvolvimento de software desde 2022.
-- 🚀 Desenvolvo projetos utilizando tecnologias de front-end e back-end.
-- ☁️ Tenho interesse em desenvolvimento de aplicações e computação em nuvem.
-- 📚 Busco evoluir constantemente por meio de projetos práticos e novos conhecimentos.
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquitetura e Projetos de Cloud Computing.
+- 💻 Experiência prática em desenvolvimento web, integração com APIs REST e qualidade de software.
+- 🧪 Experiência em testes funcionais e de APIs, com conhecimentos em automação de testes.
+- ☁️ Conhecimentos em AWS, Docker e desenvolvimento de aplicações full stack.
 
 ---
 
