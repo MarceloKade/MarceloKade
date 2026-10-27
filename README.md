@@ -139,6 +139,22 @@ Aplicação para explorar personagens da Marvel, consultar detalhes e pesquisar 
   </a>
 </div>
 
+### 📰 Aplicativo de Notícias
+
+Aplicação web que exibe notícias por categoria, permitindo consultar manchetes, imagens, fontes e datas de publicação. Ao selecionar uma notícia, é possível visualizar seus detalhes em um modal.
+
+**Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, Axios e NewsData.io API.
+
+<div>
+  <a href="https://github.com/MarceloKade/aplicativo-de-noticias">
+    <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do frontend"/>
+  </a>
+  <a href="https://aplicativo-de-noticias.netlify.app/">
+    <img src="https://img.shields.io/badge/Deploy-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Aplicação online"/>
+  </a>
+</div>
+
+
 
 ## 📊 GitHub Stats
 
