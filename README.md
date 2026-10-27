@@ -124,6 +124,22 @@ Aplicação para pesquisar livros, consultar informações e gerenciar favoritos
   </a>
 </div>
 
+### 🦸 Marvel Heroes
+
+Aplicação para explorar personagens da Marvel, consultar detalhes e pesquisar heróis pelo nome.
+
+**Tecnologias:** Next.js, React, TypeScript, Styled Components e Axios.
+
+<div>
+  <a href="https://github.com/MarceloKade/desafio-frontend-fpass">
+    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
+  </a>
+  <a href="https://desafio-frontend-fpass.vercel.app/">
+    <img src="https://img.shields.io/badge/Deploy-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Aplicação online"/>
+  </a>
+</div>
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
