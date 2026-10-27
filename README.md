@@ -132,7 +132,7 @@ Aplicação para explorar personagens da Marvel, consultar detalhes e pesquisar 
 
 <div>
   <a href="https://github.com/MarceloKade/desafio-frontend-fpass">
-    <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"/>
+    <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do frontend"/>
   </a>
   <a href="https://desafio-frontend-fpass.vercel.app/">
     <img src="https://img.shields.io/badge/Deploy-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Aplicação online"/>
